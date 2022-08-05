@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/felicidades.mp3-c0b0ffa50ca25996fbb1a4ee895238cb.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/felicidades.mp3"
+dest_files=[ "res://.import/felicidades.mp3-c0b0ffa50ca25996fbb1a4ee895238cb.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

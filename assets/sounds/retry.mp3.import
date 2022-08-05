@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/retry.mp3-db66f8862660e0662a0243f8460c2cd4.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/retry.mp3"
+dest_files=[ "res://.import/retry.mp3-db66f8862660e0662a0243f8460c2cd4.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

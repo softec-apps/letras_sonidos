@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Scoring a Point.mp3-4ecd093d2d5c180f457b50cec9543195.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/Scoring a Point.mp3"
+dest_files=[ "res://.import/Scoring a Point.mp3-4ecd093d2d5c180f457b50cec9543195.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
